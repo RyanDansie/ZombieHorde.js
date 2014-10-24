@@ -148,7 +148,7 @@ ZombieHorde.prototype.NewZombie = function ()
 
     div.style.width = "78px";
     div.style.height = "78px";
-    div.style.backgroundImage = "url('https://dl.dropboxusercontent.com/u/141246873/ZombieError/zombie.png')";
+    div.style.backgroundImage = "url('//raw.githubusercontent.com/RyanDansie/ZombieHorde.js/master/zombie.png')";
     div.style.backgroundPosition = "left";
     div.style.backgroundPositionX = "0px";
     div.style.backgroundPositionY = "0px";
