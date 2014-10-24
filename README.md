@@ -9,7 +9,7 @@ To use ZombieHorde.js, include the below script tag in your website:
 
 <script type="text/javascript" src="//cdn.rawgit.com/RyanDansie/ZombieHorde.js/master/zombieHorde.js"></script>
 
-...
+```
 
 To start the zombie horde execute the below javascript:
 
